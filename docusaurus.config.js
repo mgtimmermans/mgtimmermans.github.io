@@ -42,14 +42,11 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          routeBasePath: '/'
+ 
           
         },
-        blog: {
-          showReadingTime: true,
-
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
