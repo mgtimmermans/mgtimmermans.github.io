@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmgtimmermans_github_io=self.webpackChunkmgtimmermans_github_io||[]).push([[7084],{6614:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/docs/intro/blog/tags/hola","allTagsPath":"/docs/intro/blog/tags","count":1,"unlisted":false}')}}]);
