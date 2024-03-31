@@ -81,7 +81,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()}.`,
+        copyright: `${new Date().getFullYear()}.`,
       },
       prism: {
         theme: prismThemes.github,
