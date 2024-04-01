@@ -57,3 +57,7 @@ iframe {
   height: 500px;
   border-style: none;
 }
+
+.pagination-nav {
+  display: none;
+}
