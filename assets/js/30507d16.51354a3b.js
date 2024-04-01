@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmgtimmermans_github_io=self.webpackChunkmgtimmermans_github_io||[]).push([[197],{5630:e=>{e.exports=JSON.parse('{"title":"code","description":"Research","slug":"/category/code","permalink":"/category/code","navigation":{"previous":{"title":"main","permalink":"/"},"next":{"title":"c1","permalink":"/code/c1"}}}')}}]);
