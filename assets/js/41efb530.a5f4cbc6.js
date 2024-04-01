@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmgtimmermans_github_io=self.webpackChunkmgtimmermans_github_io||[]).push([[417],{5706:e=>{e.exports=JSON.parse('{"title":"elec","description":"Research","slug":"/category/elec","permalink":"/category/elec","navigation":{"previous":{"title":"Main","permalink":"/"},"next":{"title":"Magnetron Proj","permalink":"/code/c1"}}}')}}]);
