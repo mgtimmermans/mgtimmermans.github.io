@@ -66,12 +66,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Elec',
-          },
+         // {
+         //   type: 'docSidebar',
+         //   sidebarId: 'tutorialSidebar',
+         //   position: 'left',
+         //   label: 'Elec',
+        //  },
           {
             href: 'https://github.com/mgtimmermans',
             label: 'GitHub',
@@ -79,10 +79,10 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        copyright: `${new Date().getFullYear()}.`,
-      },
+      //footer: {
+        //style: 'dark',
+       // copyright: `${new Date().getFullYear()}.`,
+    //  },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
