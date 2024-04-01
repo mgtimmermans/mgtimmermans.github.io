@@ -9,7 +9,7 @@ public repo of research topics, projects, and interests
 
 
 ## Picture
-<img src = "static/img/usapl.png" width = 80%>
+<img src = "static/img/usapl.png">
 
 ## Gif
 
