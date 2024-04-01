@@ -9,7 +9,8 @@ public repo of research topics, projects, and interests
 
 
 ## Picture
-<img src = "usapl.png">
+
+![Example banner](./assets/usapl.png)
 
 ## Gif
 
